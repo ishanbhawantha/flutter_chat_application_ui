@@ -84,7 +84,7 @@ List<Message> chats = [
   Message(
     sender: greg,
     time: '11:30 AM',
-    text: 'Hey, how\'s it going? What did you do today?',
+    text: 'Hey, how\'s it going?',
     isLiked: false,
     unread: false,
   ),
